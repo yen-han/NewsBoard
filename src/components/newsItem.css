@@ -1,0 +1,18 @@
+.news-item{
+    width:500px;
+    padding:20px;
+    border: 1px solid #b3b3b3;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.news-img{
+    width:400px;
+    display: block;
+    margin: auto;
+}
+.news-item h3{
+    padding: 20px;
+}
+.news-item p{
+    padding-left: 20px;
+}
